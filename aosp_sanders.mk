@@ -46,3 +46,4 @@ VENDOR_BUILD_FINGERPRINT := google/walleye/walleye:9/PPP3.180510.008/4811556:use
 
 # for specific
 $(call inherit-product, vendor/motorola/sanders/sanders-vendor.mk)
+TARGET_GAPPS_ARCH := arm64
